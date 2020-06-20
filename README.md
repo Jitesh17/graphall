@@ -1,2 +1,2 @@
 # graphall
-This package helps access all kinds of graphs
+This package helps access all kinds of graphs.
